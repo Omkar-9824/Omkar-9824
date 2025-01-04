@@ -1,6 +1,9 @@
 <p align ="center">
-  <img src = "https://i.pinimg.com/originals/36/2d/5c/362d5c55859146c0c7debfca296ad321.gif" height = "400">
+  <img src = "https://camo.githubusercontent.com/129463490889ef4c7bcdfaeb4afa3f6e93b223ead98b5021b175085440da90e2/68747470733a2f2f692e726564642e69742f6e38616777367a32736d7962312e676966" wedith = "400">
 </p>  
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Omkar+Chavan!;" />
+</h1>
 
 
 # 💻 Tech Stack:
